@@ -1,5 +1,5 @@
 # 🔐 Homomorphic Encryption for Confidential Blockchain Transactions
-
+ 
 This project implements **privacy-preserving blockchain transactions** using homomorphic encryption, enabling computations on encrypted data without revealing sensitive information.
 
 ---
